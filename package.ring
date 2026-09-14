@@ -1,5 +1,5 @@
 aPackageInfo = [
-	:name = "The AlQalam Package",
+	:name = "AlQalam",
 	:description = "Our AlQalam package using the Ring programming language",
 	:folder = "AlQalam",
 	:developer = "Azzeddine Remmal",
